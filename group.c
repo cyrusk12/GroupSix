@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// My tab is 4 spaces.
+
 void Elana(void) {
     
 }
@@ -17,7 +19,10 @@ void Clay(void) {
 }
 
 void Andrew(void) {
-
+    printf("Name: Andrew Kattine-Grimsley\n");
+    printf("Hobbies: ");
+    printf("\n");
+    
 }
 
 int main(void) {
@@ -31,13 +36,23 @@ int main(void) {
     printf("         -Clay Kellinger\n");
     printf("         -Brooke Kern\n");
     printf("         -Cyrus Kirkeby\n");
+    printf("\n");
+    
     
     Elana();
-    Cyrus();
-    Brooke();
-    Clay();
-    Andrew();
+    printf("\n");
     
+    Cyrus();
+    printf("\n");
+    
+    Brooke();
+    printf("\n");
+    
+    Clay();
+    printf("\n");
+    
+    Andrew();
+    printf("\n");
     
     return 0;
 
