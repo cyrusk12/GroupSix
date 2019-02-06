@@ -5,7 +5,9 @@
 void Elena(void) {
     printf("Name: Elena Kahn\n");
     printf("Year: Sophomore\n");
-    printf("Major:\n")
+    printf("Major: Computer science\n");
+    printf("Hobbies: longboarding, video games, reading, dungeons and dragons\n");
+    printf("\n");
 
 }
 
