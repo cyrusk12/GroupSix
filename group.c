@@ -19,8 +19,12 @@ void Clay(void) {
 }
 
 void Andrew(void) {
+    printf("\n");
     printf("Name: Andrew Kattine-Grimsley\n");
-    printf("Hobbies: ");
+    printf("Year: Sophomore\n");
+    printf("Major: Math/CS\n");
+    printf("Hobbies: Reading, Writing, Computer Stuff\n");
+    printf("Residence (Youth): Montana/Utah/Arizona\n");
     printf("\n");
     
 }
