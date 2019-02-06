@@ -2,8 +2,10 @@
 
 // My tab is 4 spaces.
 
-void Elana(void) {
-    
+void Elena(void) {
+    printf("Name: Elena Kahn\n");
+    printf("");
+
 }
 
 void Cyrus(void) {
@@ -22,7 +24,7 @@ void Andrew(void) {
     printf("Name: Andrew Kattine-Grimsley\n");
     printf("Hobbies: ");
     printf("\n");
-    
+
 }
 
 int main(void) {
@@ -37,23 +39,23 @@ int main(void) {
     printf("         -Brooke Kern\n");
     printf("         -Cyrus Kirkeby\n");
     printf("\n");
-    
-    
-    Elana();
+
+
+    Elena();
     printf("\n");
-    
+
     Cyrus();
     printf("\n");
-    
+
     Brooke();
     printf("\n");
-    
+
     Clay();
     printf("\n");
-    
+
     Andrew();
     printf("\n");
-    
+
     return 0;
 
 }
