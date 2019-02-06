@@ -1,4 +1,4 @@
-#inlcude <stdio.h>
+#include <stdio.h>
 
 void Elana(void) {
     
@@ -21,6 +21,7 @@ void Andrew(void) {
 }
 
 int main(void) {
+
     printf("*************************\n");
     printf("        GroupSix\n");
     printf("*************************\n");
