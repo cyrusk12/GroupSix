@@ -4,7 +4,8 @@
 
 void Elena(void) {
     printf("Name: Elena Kahn\n");
-    printf("");
+    printf("Year: Sophomore\n");
+    printf("Major:\n")
 
 }
 
