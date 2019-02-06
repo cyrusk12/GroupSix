@@ -12,7 +12,8 @@ void Brooke(void) {
 	printf("Name: Brooke Kern\n");
 	printf("Year in school: senior\n");
 	printf("Major: ecology & organismal biology\n");
-	
+	printf("Hobbies: knitting\n");
+	printf("Hometown: Columbus, MT\n");
 }
 
 void Clay(void) {
