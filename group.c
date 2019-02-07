@@ -7,7 +7,7 @@ void Elena(void) {
     printf("Year: Sophomore\n");
     printf("Major: Computer science\n");
     printf("Hobbies: longboarding, video games, reading, dungeons and dragons\n");
-    printf("\n");
+    printf("Hometown: Minneapolis, MN\n");
 
 }
 
