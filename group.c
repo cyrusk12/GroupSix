@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void Elana(void) {
+void Elena(void) {
     
 }
 
@@ -48,7 +48,7 @@ int main(void) {
     printf("\n");
     
     
-    Elana();
+    Elena();
     printf("\n");
     
     Cyrus();
